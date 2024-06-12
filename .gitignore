@@ -1,0 +1,34 @@
+# Node.js
+/node_modules/
+
+# Dependency directories
+/bower_components/
+/jspm_packages/
+
+# Logs and database files
+*.log
+*.sql
+*.sqlite
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# Build output
+/build/
+/dist/
+/out/
+
+# IDE or editor files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
